@@ -26,10 +26,12 @@ This project demonstrates how to subscribe to an image topic in ROS2 and process
 ## How to Run
 
 ### 1. Build the ROS2 workspace
-```bash
+
 cd ~/ros2_ws
 colcon build
 source install/setup.bash
 
-## Result
+---
+## 🖼️ Result Preview
+
 [Gray Image Output](screenshots/gray_output.jpg)
