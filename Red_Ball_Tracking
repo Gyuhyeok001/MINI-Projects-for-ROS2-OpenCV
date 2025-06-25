@@ -1,9 +1,0 @@
-mkdir red_ball_tracking
-cd red_ball_tracking
-
-# ROS2 패키지에 필요한 파일 복사
-cp -r ~/ros2_projects/color_tracking/* .
-
-# 결과 이미지도 추가
-mkdir result
-cp ~/your_screenshot_path.png result/screenshot.png
