@@ -34,4 +34,5 @@ source install/setup.bash
 ---
 ## 🖼️ Result Preview
 
-[Gray Image Output](screenshot/gray_output.jpg)
+[Gray Image Output](./gray_output.jpg)}(./gray_output.jpg)
+(./red_ball_tracking.png)](./red_ball_tracking.png)
