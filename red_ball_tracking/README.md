@@ -27,8 +27,7 @@ This project demonstrates how to detect and track a red object (ball) in a video
 ## How to Run
 
 1. **Build the ROS2 workspace**
-
-  cd ~/ros2_ws
+- cd ~/ros2_ws
 colcon build
 source install/setup.bash
 
