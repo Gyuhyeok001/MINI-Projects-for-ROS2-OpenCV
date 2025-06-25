@@ -32,7 +32,7 @@ colcon build
 source install/setup.bash
 
 ---
-## 🖼️ Result Preview
+## Result Preview
 
 [Gray Image Output](./gray_output.jpg)}(./gray_output.jpg)
-(./red_ball_tracking.png)](./red_ball_tracking.png)
+
