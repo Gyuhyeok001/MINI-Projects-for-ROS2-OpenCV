@@ -29,5 +29,6 @@ source install/setup.bash
 
 ---
 
-Result Preview
+## Result Preview
+[Gray Image Output](screenshots/gray_output.jpg)
 
