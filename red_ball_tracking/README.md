@@ -38,5 +38,5 @@ ros2 run color_tracking color_pub
 rqt_image_view
 
 ## Result Preview
-[![Tracking Output](./red_ball_tracking.png)](./red_ball_tracking.png)
+[![Tracking Output](./redball_tracking.gif)](./redball_tracking.gif)
 
