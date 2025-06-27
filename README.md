@@ -34,7 +34,7 @@ MINI-Projects-for-ROS2-OpenCV/
   - Reading from camera or image file
   - Displaying frames in real time
   - ROS2 publisher/subscriber
-- 🛠 Tools: ROS2, Python, OpenCV
+- Tools: ROS2, Python, OpenCV
 
 ### 2. `red_ball_tracking`
  A ROS2-based color tracking project that detects a red-colored ball from a webcam feed.
